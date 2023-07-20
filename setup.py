@@ -27,7 +27,7 @@ ISRELEASED = True
 VERSION = '%d.%d.%d' % (MAJOR, MINOR, MICRO)
 
 # Version of Numpy required for setup
-REQUIRED_NUMPY = 'numpy>=1.9.1'
+REQUIRED_NUMPY = 'numpy'
 
 
 # from MDAnalysis setup.py (https://www.mdanalysis.org/)
